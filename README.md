@@ -7,7 +7,7 @@ This project focuses on cleaning a raw layoffs dataset using SQL. The goal was t
 ## DATASET
 
 The dataset used for this project was obtained from kaggle.
-layoffs (1).csv
+- <a href="https://github.com/datawithtee/DATA-CLEANING-WITH-SQL/blob/main/dataset.layoffs%20(1).csv">Dataset</a>
 
 ## OBJECTIVES
 
