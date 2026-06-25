@@ -6,7 +6,7 @@ This project focuses on cleaning a raw layoffs dataset using SQL. The goal was t
 
 # DATASET
 
-The dataset udes for this project was obtained from kaggle
+The dataset used for this project was obtained from kaggle.
 
 # OBJECTIVES
 
