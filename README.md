@@ -32,4 +32,4 @@ Date formatting
 ## PROJECT OUTCOME
 
 Successfully transformed raw data into a structured and clean dataset ready for exploratory data analysis and business insights.
--<a href="https://github.com/datawithtee/DATA-CLEANING-WITH-SQL/blob/main/DATA%20CLEANING%20IN%20SQL.sql">Cleaned_data</a>
+- <a href="https://github.com/datawithtee/DATA-CLEANING-WITH-SQL/blob/main/DATA%20CLEANING%20IN%20SQL.sql">MYSQL-Queries</a>
